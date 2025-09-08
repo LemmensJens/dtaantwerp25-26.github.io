@@ -1,7 +1,7 @@
 # MA Digital Text Analysis: Bootcamp 
 
 ## Administrative Information
-- Dates: 22 September 2024 - 10 October 2025
+- Dates: 22 September 2025 - 10 October 2025
 - Point of contact: [jens.lemmens@uantwerpen.be](mailto:jens.lemmens@uantwerpen.be)
 - Course Material:  All course material can be found [here](https://github.com/LemmensJens/dtaantwerp25-26.github.io)
 
