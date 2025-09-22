@@ -197,8 +197,10 @@
 - [De Bruyne, Luna](mailto:Luna.debruyne@uantwerpen.be)
 - [De Marez, Victor](mailto:Victor.demarez@uantwerpen.be)
 - [Gevers, Ine](mailto:ine.gevers@uantwerpen.be)
+- [Kestemont, Mike](mailto:mike.kestemont@uantwerpen.be)
 - [Lemmens, Jens](mailto:Jens.Lemmens@uantwerpen.be)
 - [Petré, Peter](mailto:peter.petre@uantwerpen.be)
+- [Van der Eecken, Paavo](mailto:pavo.vandereecken@uantwerpen.be)
 - [Vandyck, Caroline](mailto:Caroline.vandyck@uantwerpen.be)
 - [Van Nooten, Jens](mailto:jens.vannooten@uantwerpen.be)
 
