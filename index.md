@@ -47,8 +47,8 @@
 		- **[Python and Variables](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/exercises/Questions_2025/01_EX_Python_and_variables.ipynb)**
 		- **[Datatypes](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/exercises/Questions_2025/02_EX_Datatypes.ipynb)**
 		
-		&emsp;Tutor: TBA
-		&emsp;Assistant: TBA
+		&emsp;Tutor: Ine Gevers
+		&emsp;Assistant: /
 
 ###  Week 2
 
@@ -62,9 +62,9 @@
 		&emsp;**[Frequency Distribution in Python; Counting, Text](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/notebooks/07_W2_Mon_Frequency_Distribution_in_Python_Counting_Text.ipynb)**  
 
 		&emsp;Tutor: Luna De Bruyne
-		&emsp;Assistant: /
+		&emsp;Assistant: Ine Gevers
 		
-- #### Tuesday (30/09/2025) Room: C.101 (morning) and D.328 (afternoon)
+- #### Tuesday (30/09/2025) Room: M.101 (morning) and D.328 (afternoon)
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**  
 		- **[Control structures: If-Else](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/exercises/Questions_2025/03_EX_if_else.ipynb)**
@@ -107,7 +107,7 @@
 		&emsp;**Troubleshooting (optional)**  
 		- no 'class', not obligatory: come by with your individual questions/issues/...  
 		
-		&emsp;Tutors: TBA
+		&emsp;Tutors: Jens Van Nooten
 		
 - #### Friday (03/10/2025) Room: D.226 (morning) and C.102 (afternoon)
 	- Morning (10:30 - 12:30)  
@@ -133,7 +133,7 @@
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Project Work](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/notebooks/13_W3_Mo_Larger_Project.ipynb)**  
 
-		&emsp;Tutor: TBA
+		&emsp;Tutor: Jens Van Nooten
 		&emsp;Assistant: 
 	
 		
@@ -157,7 +157,7 @@
 	- Morning (10:30 - 12:30)  
 	&emsp;**[Pandas](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/notebooks/14_W3_Wed_Pandas.ipynb)**  
 		
-		&emsp;Tutor: TBA
+		&emsp;Tutor: Ine Gevers
 		&emsp;Assistant: Caroline Vandyck
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Object Orientation](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/notebooks/15_W3_Wed_Object_Orientation.ipynb)**  
