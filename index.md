@@ -127,7 +127,7 @@
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Numpy](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2025_students/notebooks/12_W3_Mon_Numpy.ipynb)**
 
-		&emsp;Tutor: TBA
+		&emsp;Tutor: Pieter Fivez
 		&emsp;Assistant:
 
 	- Afternoon (14:00 - 16:00)  
@@ -144,7 +144,7 @@
 		- **[Functional Programming](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/exercises/Questions_2025/10_EX_functional_programming_list_comprehension.ipynb)**
 		- **[Numpy](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/exercises/Questions_2025/11_EX_Numpy.ipynb)**
 		
-	&emsp;Tutor: TBA
+	&emsp;Tutor: Pieter Fivez
 	&emsp;Assistant:
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**Troubleshooting (optional)**  
@@ -197,6 +197,7 @@
 - [De Bruyne, Luna](mailto:Luna.debruyne@uantwerpen.be)
 - [De Marez, Victor](mailto:Victor.demarez@uantwerpen.be)
 - [Gevers, Ine](mailto:ine.gevers@uantwerpen.be)
+- [Fivez, Pieter](mailto:pieter.fivez@uantwerpen.be)
 - [Kestemont, Mike](mailto:mike.kestemont@uantwerpen.be)
 - [Lemmens, Jens](mailto:Jens.Lemmens@uantwerpen.be)
 - [Petré, Peter](mailto:peter.petre@uantwerpen.be)
