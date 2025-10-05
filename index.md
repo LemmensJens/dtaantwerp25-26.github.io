@@ -133,7 +133,7 @@
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Project Work](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/notebooks/13_W3_Mo_Larger_Project.ipynb)**  
 
-		&emsp;Tutor: Jens Van Nooten
+		&emsp;Tutor: Jens Lemmens
 		&emsp;Assistant: 
 	
 		
