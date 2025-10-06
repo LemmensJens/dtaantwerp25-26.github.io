@@ -125,7 +125,7 @@
 ###  Week 3
 - #### Monday (6/10/2024) Room: SJ.117 (morning and afternoon)
 	- Morning (10:30 - 12:30)  
-		&emsp;**[Numpy](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2025_students/notebooks/12_W3_Mon_Numpy.ipynb)**
+		&emsp;**[Numpy](https://github.com/LemmensJens/dtaantwerp25-26.github.io/blob/DTA_Bootcamp_2025_students/notebooks/12_W3_Mon_Numpy.ipynb)**
 
 		&emsp;Tutor: Pieter Fivez
 		&emsp;Assistant:
